@@ -11,6 +11,9 @@ Here is a list of resources for learning programming.
 #### Rails
 - Practicing Rails
 
+#### CSS
+- [The Magic of CSS](http://adamschwartz.co/magic-of-css)
+
 #### Testing
 
 - [Testing for people who hate testing](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/): a great, language-agnostic resource on what to test and how to test it
