@@ -3,6 +3,9 @@
 
 Here is a list of resources for learning programming.
 
+#### General: Projects
+- [projects](https://github.com/karan/Projects): a list of practical projects/problems to build or solve in any language.
+
 #### General: Testing
 
 - [Testing for people who hate testing](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/): a great, language-agnostic resource on what to test and how to test it
@@ -20,4 +23,5 @@ Here is a list of resources for learning programming.
 
 #### JavaScript
 - [Eloquent JavaScript](http://eloquentjavascript.net/): An intro to JavaScript and programming concepts
+- [FreeCodeCamp](https://www.freecodecamp.com): Pretty good basic JavaScript and jQuery tracks to give you an idea of JavaScript concepts
 
