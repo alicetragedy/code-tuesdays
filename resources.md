@@ -24,4 +24,5 @@ Here is a list of resources for learning programming.
 #### JavaScript
 - [Eloquent JavaScript](http://eloquentjavascript.net/): An intro to JavaScript and programming concepts
 - [FreeCodeCamp](https://www.freecodecamp.com): Pretty good basic JavaScript and jQuery tracks to give you an idea of JavaScript concepts
+- [You might not need jQuery](http://youmightnotneedjquery.com/): Are you sure you really need jQuery? This resource takes a look at alternatives depending on the browsers you need to support. 
 
