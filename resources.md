@@ -3,10 +3,18 @@
 
 Here is a list of resources for learning programming.
 
-#### General: Projects
+
+#### General
+
+##### Databases
+
+- [Intro to databases](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712): quick and handy article to get an idea of what databases are and how they work
+
+##### Projects
+
 - [projects](https://github.com/karan/Projects): a list of practical projects/problems to build or solve in any language.
 
-#### General: Testing
+##### Testing
 
 - [Testing for people who hate testing](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/): a great, language-agnostic resource on what to test and how to test it
 
