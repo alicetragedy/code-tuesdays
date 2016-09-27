@@ -2,19 +2,21 @@ var myCar = new Object();
 myCar.maxSpeed = 50;
 myCar.driver = "Laura";
 
-myCar.drive = function(driver) {
-  console.log(this.driver + " is now driving");
+myCar.crash = function(driver) {
+  console.log(this.driver + " has just crashed");
 };
 
 console.log(myCar.driver);
 console.log(myCar.maxSpeed);
-myCar.drive();
+myCar.crash();
 
 var myCar2 = {
   maxSpeed: 80, 
   driver: "Bobby", 
-  crash: function() {console.log("Just crashed");}
+  drive: function(speed, time) {
+    console.log("We've just driven " + (speed * time) + " kms!");
+  }
 };
 
 console.log(myCar2.maxSpeed);
-myCar2.crash();
+myCar2.drive(50, 3);
