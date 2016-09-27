@@ -6,6 +6,10 @@ Here is a list of resources for learning programming.
 
 #### General
 
+##### Color & Styling
+
+- [How I work with color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed): A really good introductory article on building a solid color palette using color grading tools in Photoshop.
+
 ##### Databases
 
 - [Intro to databases](https://medium.com/@rwilliams_bv/intro-to-databases-for-people-who-dont-know-a-whole-lot-about-them-a64ae9af712): quick and handy article to get an idea of what databases are and how they work
@@ -30,7 +34,7 @@ Here is a list of resources for learning programming.
 - [The Magic of CSS](http://adamschwartz.co/magic-of-css)
 
 #### JavaScript
-- [Eloquent JavaScript](http://eloquentjavascript.net/): An intro to JavaScript and programming concepts
+- [Eloquent JavaScript](http://eloquentjavascript.net/): An intro to JavaScript and programming concepts; it's a good book, but very thorough
 - [FreeCodeCamp](https://www.freecodecamp.com): Pretty good basic JavaScript and jQuery tracks to give you an idea of JavaScript concepts
 - [You might not need jQuery](http://youmightnotneedjquery.com/): Are you sure you really need jQuery? This resource takes a look at alternatives depending on the browsers you need to support. 
 
