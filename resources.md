@@ -6,6 +6,9 @@ Here is a list of resources for learning programming.
 
 #### General
 
+##### Web
+- [W3schools](http://www.w3schools.com/): Really great reference for HTML, CSS and JavaScript, with small examples and tutorials.
+
 ##### Color & Styling
 
 - [How I work with color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed): A really good introductory article on building a solid color palette using color grading tools in Photoshop.
@@ -16,6 +19,7 @@ Here is a list of resources for learning programming.
 
 ##### Projects
 
+- [a low-cost approach to side projects](https://www.practicingruby.com/articles/low-cost-approach-to-side-projects): an article on the importance of setting explicit goals before working on side projects to make the best out of your limited time
 - [projects](https://github.com/karan/Projects): a list of practical projects/problems to build or solve in any language.
 
 ##### Testing
@@ -36,5 +40,6 @@ Here is a list of resources for learning programming.
 #### JavaScript
 - [Eloquent JavaScript](http://eloquentjavascript.net/): An intro to JavaScript and programming concepts; it's a good book, but very thorough
 - [FreeCodeCamp](https://www.freecodecamp.com): Pretty good basic JavaScript and jQuery tracks to give you an idea of JavaScript concepts
-- [You might not need jQuery](http://youmightnotneedjquery.com/): Are you sure you really need jQuery? This resource takes a look at alternatives depending on the browsers you need to support. 
+- [You might not need jQuery](http://youmightnotneedjquery.com/): Are you sure you really need jQuery? This resource takes a look at alternatives depending on the browsers you need to support.  
+- [Prototypes aren't classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html): Just a good article that explains the differences between JavaScript's Prototypes and Ruby's Classes
 
