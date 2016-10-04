@@ -38,8 +38,12 @@ Here is a list of resources for learning programming.
 - [The Magic of CSS](http://adamschwartz.co/magic-of-css)
 
 #### JavaScript
+- [The Net Ninja // JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET): a series of short (5 min) videos explaining basic concepts of JS, the DOM, and JS libraries. Highly recommended!
 - [Eloquent JavaScript](http://eloquentjavascript.net/): An intro to JavaScript and programming concepts; it's a good book, but very thorough
 - [FreeCodeCamp](https://www.freecodecamp.com): Pretty good basic JavaScript and jQuery tracks to give you an idea of JavaScript concepts
 - [You might not need jQuery](http://youmightnotneedjquery.com/): Are you sure you really need jQuery? This resource takes a look at alternatives depending on the browsers you need to support.  
 - [Prototypes aren't classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html): Just a good article that explains the differences between JavaScript's Prototypes and Ruby's Classes
+- [Try jQuery](http://try.jquery.com/): a free interactive course on CodeSchool to get the hang of jQuery
+
+
 
