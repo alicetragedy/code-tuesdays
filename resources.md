@@ -44,6 +44,7 @@ Here is a list of resources for learning programming.
 - [You might not need jQuery](http://youmightnotneedjquery.com/): Are you sure you really need jQuery? This resource takes a look at alternatives depending on the browsers you need to support.  
 - [Prototypes aren't classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html): Just a good article that explains the differences between JavaScript's Prototypes and Ruby's Classes
 - [Try jQuery](http://try.jquery.com/): a free interactive course on CodeSchool to get the hang of jQuery
+- [JS Books](http://jsbooks.revolunet.com/): a collection of books free to read online
 
 
 
