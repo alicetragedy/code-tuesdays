@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+
+  <style>
+    body {
+      height: 200px;
+      background: beige;
+    }
+    .dot {
+      height: 8px; width: 8px;
+      border-radius: 4px; /* rounds corners */
+      background: violet;
+      position: absolute;
+    }
+  </style>
+</head>
+
+<body>
+
+</body>
+
+<script>
+  addEventListener("click", function(event) {
+    var dot = document.createElement("div");
+    dot.className = "dot";
+    // - 4px moves the dot center to current (0,0) position of mouse pointer
+    dot.style.left = (event.pageX - 4) + "px";
+    dot.style.top = (event.pageY - 4) + "px";
+    document.body.appendChild(dot);
+  });
+</script>
+
+</html>
+
