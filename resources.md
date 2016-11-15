@@ -26,6 +26,11 @@ Here is a list of resources for learning programming.
 
 - [Testing for people who hate testing](https://eev.ee/blog/2016/08/22/testing-for-people-who-hate-testing/): a great, language-agnostic resource on what to test and how to test it
 
+##### Typography
+
+- [Practical Typography](http://practicaltypography.com/): A manual to use typography correctly, including tips on text formatting, type composition, and page payout.
+- [Professional Web Typography](https://prowebtype.com)
+
 #### Ruby
 
 - [Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html): a nice and quick tutorial that goes over the basics of the Ruby language
@@ -36,6 +41,7 @@ Here is a list of resources for learning programming.
 
 #### CSS
 - [The Magic of CSS](http://adamschwartz.co/magic-of-css)
+- [You might not need JS](http://youmightnotneedjs.com/): A look at how to use plain HTML and CSS to recreate some JavaScript features
 
 #### JavaScript
 - [The Net Ninja // JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET): a series of short (5 min) videos explaining basic concepts of JS, the DOM, and JS libraries. Highly recommended!
