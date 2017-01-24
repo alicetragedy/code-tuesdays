@@ -59,6 +59,7 @@ Here is a list of resources for learning programming.
 - [Prototypes aren't classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html): Just a good article that explains the differences between JavaScript's Prototypes and Ruby's Classes
 - [Try jQuery](http://try.jquery.com/): a free interactive course on CodeSchool to get the hang of jQuery
 - [JS Books](http://jsbooks.revolunet.com/): a collection of books free to read online
+- [JavaScript30](https://javascript30.com/): Wes Bos' free vanilla JavaScript course — build 30 projects in 30 days
 
 
 
