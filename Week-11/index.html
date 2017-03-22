@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <title></title>
+</head>
+<body>
+
+<div class="chart">
+</div>
+
+</body>
+
+<script>
+
+var data = [4, 8, 15, 16, 23, 42];
+
+d3.select(".chart")
+  .selectAll("div")
+  .data(data)
+  .enter().append("div")
+  .style("width", function(d) { return d * 10 + "px"; })
+  .text(function(d) { return d; });
+</script>
+
+</html>
+
